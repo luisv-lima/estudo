@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Maçã", "price": 9.90 },
+    { "id": 2, "name": "Banana", "price": 6.56 },
+    { "id": 3, "name": "Queijo", "price": 45.90 },
+    { "id": 4, "name": "Pêra", "price": 12.30 },
+    { "id": 5, "name": "Uva", "price": 8.90 },
+    { "id": 6, "name": "Melancia", "price": 2.30 },
+    { "id": 5, "name": "Pão de Forma", "price": 7.15 }
+]
