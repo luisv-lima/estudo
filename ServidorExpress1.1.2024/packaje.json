@@ -1,0 +1,16 @@
+{
+    "name": "product-api",
+    "version": "1.0.0",
+    "description": "API para gerenciamento de produtos usando Node.js e Express",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "keywords": ["nodejs", "express", "product-manager", "api"],
+    "author": "Seu Nome",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+}
+  
